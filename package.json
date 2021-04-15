@@ -1,0 +1,12 @@
+{
+  "name": "vscode_snippet",
+  "version": "1.0.0",
+  "description": "#### 介绍 一个超级简单的小工具，帮助我们更方便的生成代码片段。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
